@@ -108,3 +108,12 @@ Chapter 1 is written in both English and Persian; the rest are in English.
 ---
 
 50 lessons across 14 chapters.
+
+## License
+
+Copyright (C) 2026 Never-loser
+
+These lessons are released under the
+[Creative Commons Attribution 4.0 International](LICENSE) licence. You may
+use them, adapt them, translate them, and teach from them, including
+commercially, as long as you credit the author.
